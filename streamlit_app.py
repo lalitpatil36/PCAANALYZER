@@ -76,11 +76,8 @@ if uploaded:
     corr = X.corr()
     fig_corr = px.imshow(corr, text_auto=True, color_continuous_scale='RdBu_r', zmin=-1, zmax=1, title='Feature correlation heatmap')
 
-    # Loadings heatmap (features vs PCs)
-    try:
-        fig_loadings = px.imshow(loadings.T, x=cols, y=features, color_continuous_scale='RdBu', title='Loadings heatmap (features vs PCs)')
-    except Exception:
-        fig_loadings = None
+    # placeholder for loadings heatmap (will be created after loadings are computed)
+    fig_loadings = None
 
     # Sessions (save/load)
     import os, pickle, datetime
@@ -183,15 +180,48 @@ if uploaded:
     # Loadings
     loadings = pd.DataFrame(pca.components_.T, index=features, columns=cols)
 
+    # Loadings heatmap (features vs PCs)
+    try:
+        fig_loadings = px.imshow(loadings.T, x=cols, y=features, color_continuous_scale='RdBu', title='Loadings heatmap (features vs PCs)')
+    except Exception:
+        fig_loadings = None
+
     st.subheader("Loadings (feature contributions to PCs)")
     st.dataframe(loadings)
 
     # Biplot-like arrows (scaled)
     def make_biplot(fig, pcx, pcy, loadings, scale=3):
-        lx = loadings[pcx]
-        ly = loadings[pcy]
+        import re
+        def col_to_array(ld, key):
+            # if key is integer index
+            try:
+                if isinstance(key, int):
+                    return ld.iloc[:, key].to_numpy()
+            except Exception:
+                pass
+            # if key matches column label
+            if isinstance(key, str):
+                if key in ld.columns:
+                    return ld[key].to_numpy()
+                m = re.match(r"PC(\d+)", key)
+                if m:
+                    idx = int(m.group(1)) - 1
+                    if 0 <= idx < ld.shape[1]:
+                        return ld.iloc[:, idx].to_numpy()
+                # try numeric string
+                if key.isdigit():
+                    idx = int(key)
+                    if 0 <= idx < ld.shape[1]:
+                        return ld.iloc[:, idx].to_numpy()
+            # fallback to first column
+            return ld.iloc[:, 0].to_numpy()
+
+        lx = col_to_array(loadings, pcx)
+        ly = col_to_array(loadings, pcy)
         for i, feat in enumerate(loadings.index):
-            fig.add_trace(go.Scatter(x=[0, lx[i]*scale], y=[0, ly[i]*scale], mode='lines+markers+text', marker=dict(size=1), text=[None, feat], textposition='top center', showlegend=False))
+            x0 = float(lx[i]) * scale
+            y0 = float(ly[i]) * scale
+            fig.add_trace(go.Scatter(x=[0, x0], y=[0, y0], mode='lines+markers+text', marker=dict(size=1), text=[None, feat], textposition='top center', showlegend=False))
         return fig
 
     biplot_fig = go.Figure(fig_scatter)
