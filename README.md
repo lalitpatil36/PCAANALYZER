@@ -34,3 +34,5 @@ Deployment to Streamlit Community Cloud (persistent public URL):
 Notes:
 - Keep requirements.txt updated so the cloud builder installs dependencies.
 - The app will be publicly accessible once deployed. Remove secrets from code before pushing.
+
+# redeploy-time: 2026-04-16T13:38:27.920262
