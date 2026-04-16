@@ -1,0 +1,5 @@
+variable,humidity_percent,temperature_c,disease_index,yield_kg_per_plot
+humidity_percent,1.0,-0.124,0.081,-0.227
+temperature_c,-0.124,1.0,-0.05,0.097
+disease_index,0.081,-0.05,1.0,-0.881
+yield_kg_per_plot,-0.227,0.097,-0.881,1.0

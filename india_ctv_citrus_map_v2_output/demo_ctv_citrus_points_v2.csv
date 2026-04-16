@@ -1,0 +1,15 @@
+site,state,zone,latitude,longitude,cultivar,cultivar_group,strain_class,dominant_syndrome,demo_incidence_percent,evidence_basis
+Nagpur,Maharashtra,Central India,21.1458,79.0882,Nagpur mandarin,Mandarin,Severe,stem pitting / decline risk,38,Indian CTV isolate location and Vidarbha mandarin belt; demo severity assignment.
+Amravati,Maharashtra,Central India,20.9374,77.7796,Nagpur mandarin,Mandarin,Mild,mild vein clearing,22,Vidarbha citrus belt; illustrative mild CTV layer point.
+Aurangabad,Maharashtra,Central India,19.8762,75.3433,Mosambi sweet orange,Sweet orange,Severe,quick decline risk on susceptible rootstock,34,Mosambi region from ICAR-CCRI document; severe CTV syndrome modeled for demo.
+Pune,Maharashtra,Central India,18.5204,73.8567,Kagzi acid lime,Acid lime,Severe,vein clearing / stem pitting,45,Indian CTV isolate location; acid lime susceptibility noted in extension literature.
+Chhindwara,Madhya Pradesh,Central India,22.0574,78.9382,Nagpur mandarin,Mandarin,Mild,mild or latent infection,18,Adjoining Nagpur mandarin belt; illustrative mild CTV layer point.
+Nanded,Maharashtra,Central India,19.1383,77.321,Mosambi sweet orange,Sweet orange,Mild,mild vein flecking,20,Marathwada sweet orange region; illustrative mild CTV layer point.
+Nalgonda,Telangana,South India,17.0575,79.2684,Sathgudi sweet orange,Sweet orange,Severe,decline / stem pitting risk,41,South-central sweet orange belt; severe CTV syndrome modeled for demo.
+Kadapa,Andhra Pradesh,South India,14.4673,78.8242,Sathgudi sweet orange,Sweet orange,Severe,stem pitting / decline risk,44,Andhra Pradesh citrus region; severe CTV syndrome modeled for demo.
+Anantapur,Andhra Pradesh,South India,14.6819,77.6006,Acid lime,Acid lime,Mild,mild vein flecking,24,Acid lime region from ICAR-CCRI document; illustrative mild point.
+Bengaluru,Karnataka,South India,12.9716,77.5946,Acid lime,Acid lime,Severe,vein clearing / stem pitting,48,Indian CTV isolate location; acid lime susceptibility noted in extension literature.
+Kodagu,Karnataka,South India,12.3375,75.8069,Coorg mandarin,Mandarin,Mild,mild or latent infection,17,Coorg mandarin region from Indian citrus cultivar literature; illustrative mild point.
+Coimbatore,Tamil Nadu,South India,11.0168,76.9558,Acid lime,Acid lime,Severe,vein flecks / yield reduction,52,Tamil Nadu acid lime region; acid lime susceptibility noted by TNAU.
+Dindigul,Tamil Nadu,South India,10.3673,77.9803,Lemon,Lemon,Mild,mild vein clearing,19,South India citrus production area; illustrative mild CTV layer point.
+Palakkad,Kerala,South India,10.7867,76.6548,Lemon,Lemon,Mild,mild or latent infection,15,South India citrus production area; illustrative mild CTV layer point.

@@ -1,0 +1,5 @@
+condition,host,infection,strain_status,rna_seq_design,symptom_summary
+healthy_mock,Citrus sinensis cv. Valencia sweet orange seedlings,mock inoculated,healthy control,used as baseline for log2 fold-change comparisons,healthy control plants
+mild_ctv_b2,Citrus sinensis cv. Valencia sweet orange seedlings,Citrus tristeza virus strain B2,mild CTV strain; T30 genotype,single infection compared with healthy control,reported as not causing obvious symptoms on indicators
+severe_ctv_b6,Citrus sinensis cv. Valencia sweet orange seedlings,Citrus tristeza virus strain B6,severe CTV strain; mixed genotype related to SY568,single infection compared with healthy control,"severe strain associated with stem pitting, cupping, yellowing, leaf stiffening, and vein corking"
+coinfection_ctv_b2_b6,Citrus sinensis cv. Valencia sweet orange seedlings,simultaneous CTV-B2 and CTV-B6 graft inoculation,mild + severe CTV co-infection,three infected biological RNA samples and healthy controls; DESeq2 vs healthy,symptoms became indistinguishable from CTV-B6 alone; B6 p23 reads about 300-fold more frequent than B2

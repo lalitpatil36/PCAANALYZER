@@ -1,0 +1,1127 @@
+gene_symbol,citrus_sinensis_id,arabidopsis_id,gene_description,mapman_bin,condition,condition_label,log2_fold_change_vs_healthy,direction
+,Orange1.1g000623m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g000623m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.63,up
+,Orange1.1g000988m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g000988m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.43,up
+,Orange1.1g001036m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g001036m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,4.48,up
+,Orange1.1g001373m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g001373m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.25,up
+,Orange1.1g002062m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g002062m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.1,up
+,Orange1.1g002353m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g002353m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.27,down
+,Orange1.1g002533m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g002533m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.07,up
+,Orange1.1g003501m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g003501m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.15,down
+,Orange1.1g003561m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g003561m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.24,down
+,Orange1.1g003789m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g003789m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.4,up
+,Orange1.1g003996m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g003996m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.41,up
+,Orange1.1g004402m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g004402m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.58,up
+,Orange1.1g004502m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g004502m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.04,down
+,Orange1.1g004510m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g004510m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.2,up
+,Orange1.1g004862m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g004862m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.43,down
+,Orange1.1g005024m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g005024m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.45,down
+,Orange1.1g005591m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g005591m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.63,up
+,Orange1.1g005865m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g005865m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.36,down
+,Orange1.1g006023m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g006023m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.07,up
+,Orange1.1g006160m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g006160m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.38,up
+,Orange1.1g006749m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g006749m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.52,up
+,Orange1.1g006767m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g006767m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.28,up
+,Orange1.1g006915m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g006915m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.35,up
+,Orange1.1g006973m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g006973m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.64,down
+,Orange1.1g007278m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g007278m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.2,up
+,Orange1.1g007736m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g007736m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.38,up
+,Orange1.1g008914m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g008914m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.29,up
+,Orange1.1g010352m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g010352m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.23,up
+,Orange1.1g010388m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g010388m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.36,up
+,Orange1.1g011548m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g011548m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.3,up
+,Orange1.1g011556m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g011556m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.46,up
+,Orange1.1g011739m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g011739m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.0,down
+,Orange1.1g011959m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g011959m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.19,down
+,Orange1.1g012242m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g012242m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.35,up
+,Orange1.1g012732m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g012732m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.34,up
+,Orange1.1g013059m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g013059m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.18,up
+,Orange1.1g014290m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g014290m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.74,up
+,Orange1.1g014537m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g014537m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,5.39,up
+,Orange1.1g015047m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g015047m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.93,up
+,Orange1.1g016102m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g016102m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.03,down
+,Orange1.1g016330m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g016330m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.2,up
+,Orange1.1g016330m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g016330m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.44,up
+,Orange1.1g016584m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g016584m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.02,down
+,Orange1.1g016596m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g016596m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.06,down
+,Orange1.1g016776m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g016776m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.64,up
+,Orange1.1g017963m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g017963m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.9,up
+,Orange1.1g018051m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g018051m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,11.13,up
+,Orange1.1g018051m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g018051m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,11.13,up
+,Orange1.1g018153m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g018153m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.24,up
+,Orange1.1g019665m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g019665m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.42,up
+,Orange1.1g019824m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g019824m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.23,down
+,Orange1.1g019909m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g019909m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.66,up
+,Orange1.1g020186m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g020186m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.43,down
+,Orange1.1g020291m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g020291m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.72,up
+,Orange1.1g020472m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g020472m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.38,down
+,Orange1.1g021013m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g021013m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.22,up
+,Orange1.1g021031m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g021031m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.7,up
+,Orange1.1g021196m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g021196m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.4,up
+,Orange1.1g021196m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g021196m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.56,up
+,Orange1.1g021502m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g021502m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.45,up
+,Orange1.1g021539m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g021539m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.4,up
+,Orange1.1g021869m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g021869m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.11,down
+,Orange1.1g022923m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g022923m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.02,down
+,Orange1.1g022937m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g022937m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.19,down
+,Orange1.1g023089m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g023089m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.71,down
+,Orange1.1g023424m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g023424m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.19,down
+,Orange1.1g023905m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g023905m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.17,down
+,Orange1.1g024440m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g024440m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.21,down
+,Orange1.1g024515m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g024515m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.05,down
+,Orange1.1g024550m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g024550m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.76,up
+,Orange1.1g024793m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g024793m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.05,down
+,Orange1.1g025006m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g025006m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.07,down
+,Orange1.1g025674m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g025674m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.01,down
+,Orange1.1g025808m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g025808m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.21,up
+,Orange1.1g025977m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g025977m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.27,down
+,Orange1.1g026067m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g026067m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.07,down
+,Orange1.1g026076m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g026076m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.0,down
+,Orange1.1g026906m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g026906m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.06,down
+,Orange1.1g027519m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g027519m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.12,down
+,Orange1.1g027743m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g027743m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.26,down
+,Orange1.1g028533m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g028533m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.09,down
+,Orange1.1g028730m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g028730m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.11,down
+,Orange1.1g028960m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g028960m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.43,up
+,Orange1.1g029153m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g029153m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.16,down
+,Orange1.1g029257m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g029257m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.59,up
+,Orange1.1g029350m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g029350m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.43,up
+,Orange1.1g029417m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g029417m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.34,down
+,Orange1.1g029641m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g029641m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,5.97,up
+,Orange1.1g030080m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g030080m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.23,down
+,Orange1.1g030784m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g030784m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.58,down
+,Orange1.1g030804m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g030804m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.33,down
+,Orange1.1g030870m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g030870m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.51,down
+,Orange1.1g031306m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g031306m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.33,down
+,Orange1.1g031629m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g031629m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.87,up
+,Orange1.1g031705m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g031705m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.71,up
+,Orange1.1g031865m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g031865m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.18,down
+,Orange1.1g032326m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g032326m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-2.27,down
+,Orange1.1g032664m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g032664m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-2.1,down
+,Orange1.1g032690m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g032690m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.93,up
+,Orange1.1g032727m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g032727m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.47,down
+,Orange1.1g032956m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g032956m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,6.86,up
+,Orange1.1g032956m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g032956m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,6.86,up
+,Orange1.1g033112m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g033112m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.84,up
+,Orange1.1g033482m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g033482m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.18,down
+,Orange1.1g033931m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g033931m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.01,down
+,Orange1.1g033970m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g033970m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.01,down
+,Orange1.1g034124m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g034124m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.01,up
+,Orange1.1g034400m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g034400m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.03,down
+,Orange1.1g034489m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g034489m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.27,up
+,Orange1.1g035537m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g035537m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.24,down
+,Orange1.1g038037m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g038037m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.43,up
+,Orange1.1g038172m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g038172m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.21,down
+,Orange1.1g039041m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g039041m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.78,up
+,Orange1.1g040489m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g040489m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.57,up
+,Orange1.1g040562m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g040562m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,8.23,up
+,Orange1.1g040659m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g040659m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.08,up
+,Orange1.1g041275m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g041275m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.35,down
+,Orange1.1g041707m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g041707m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.3,down
+,Orange1.1g042358m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g042358m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.13,down
+,Orange1.1g042603m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g042603m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.03,up
+,Orange1.1g043340m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g043340m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.63,down
+,Orange1.1g043754m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g043754m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.65,up
+,Orange1.1g044590m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g044590m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.3,up
+,Orange1.1g044590m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g044590m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.04,up
+,Orange1.1g044749m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g044749m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.72,up
+,Orange1.1g044801m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g044801m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.13,up
+,Orange1.1g044821m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g044821m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,5.44,up
+,Orange1.1g044821m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g044821m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,5.44,up
+,Orange1.1g044880m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g044880m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.04,down
+,Orange1.1g045930m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g045930m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,2.95,up
+,Orange1.1g046345m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g046345m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,1.17,up
+,Orange1.1g047658m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g047658m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-1.32,down
+,Orange1.1g047769m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g047769m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,-2.14,down
+,Orange1.1g048439m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g048439m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.17,up
+,Orange1.1g048792m,,,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,Orange1.1g048792m,,,,coinfection_ctv_b2_b6,simultaneous mild B2 and severe B6 infection,3.01,up
+ABC-2,orange1.1g000773m,AT1G59870,ABC-2 and Plant PDR ABC-type transporter ,transport.ABC transporters and multidrug resistance systems,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABC-2,orange1.1g000909m,AT3G28345,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABC-2,orange1.1g000909m,AT3G28345,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.40523,up
+"GI,FB",orange1.1g001216m,AT1G22770,GIGANTEA,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+"GI,FB",orange1.1g001216m,AT1G22770,GIGANTEA,development.unspecified,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.66944,up
+"GI,FB",orange1.1g001216m,AT1G22770,GIGANTEA,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,5.60156,up
+*,orange1.1g001544m,AT3G47570,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP1,orange1.1g001653m,AT1G07390,receptor like protein 1,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP1,orange1.1g001653m,AT1G07390,receptor like protein 1,signalling.receptor kinases.leucine rich repeat XI,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.38749,up
+TIR-NBS-LRR,orange1.1g001805m,AT5G36930,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TIR-NBS-LRR,orange1.1g001805m,AT5G36930,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.13394,up
+NB-ARC,orange1.1g001860m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g001860m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.04933,up
+TIR-NBS-LRR,orange1.1g001979m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TIR-NBS-LRR,orange1.1g001979m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.68756,up
+*,orange1.1g002055m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP13,orange1.1g002101m,AT1G74170,receptor like protein 13,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CNGC1,orange1.1g002414m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g002533m,AT5G39000,Malectin/receptor-like protein kinase ,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g002533m,AT5G39000,Malectin/receptor-like protein kinase ,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.33858,up
+FER,orange1.1g002533m,AT5G39000,Malectin/receptor-like protein kinase ,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+FER,orange1.1g002533m,AT5G39000,Malectin/receptor-like protein kinase ,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.33858,up
+*,orange1.1g002600m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LOX2,orange1.1g002617m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LOX2,orange1.1g002670m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g002939m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g002939m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.36157,up
+RK3,orange1.1g002969m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RK3,orange1.1g003092m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RK3,orange1.1g003092m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.0717,up
+*,orange1.1g003237m,AT1G11410,S-locus lectin protein kinase ,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g003368m,AT3G47570,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g003780m,AT4G08850,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g003786m,AT4G27290,S-locus lectin protein kinase ,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g003786m,AT4G27290,S-locus lectin protein kinase ,signalling.receptor kinases.DUF 26,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.34756,up
+RLP15,orange1.1g003888m,AT1G74190,receptor like protein 15,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g003996m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g003996m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.38749,up
+RLP1,orange1.1g004005m,AT1G07390,receptor like protein 1,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HAK5,orange1.1g004023m,AT4G13420,high affinity K+ transporter 5,transport.potassium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HAK5,orange1.1g004023m,AT4G13420,high affinity K+ transporter 5,transport.potassium,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.29875,up
+LHY1,orange1.1g004250m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004250m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.630218,below_threshold
+LHY1,orange1.1g004250m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.66488,down
+LHY1,orange1.1g004251m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004251m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.596573,below_threshold
+LHY1,orange1.1g004251m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.58589,down
+LHY1,orange1.1g004257m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004257m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.614483,below_threshold
+LHY1,orange1.1g004257m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.57705,down
+LHY1,orange1.1g004258m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004258m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.597808,below_threshold
+LHY1,orange1.1g004258m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.56914,down
+LHY1,orange1.1g004260m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004260m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.593318,below_threshold
+LHY1,orange1.1g004260m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.61722,down
+LHY1,orange1.1g004262m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004262m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.570945,below_threshold
+LHY1,orange1.1g004262m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.56127,down
+LOX2,orange1.1g004307m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RK3,orange1.1g004416m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RK3,orange1.1g004416m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.15074,up
+*,orange1.1g004572m,AT4G36550,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g004572m,AT4G36550,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.22022,up
+*,orange1.1g004582m,AT4G36550,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g004582m,AT4G36550,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.21036,up
+LHY1,orange1.1g004618m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004618m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.611462,below_threshold
+LHY1,orange1.1g004618m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.72154,down
+WAK2,orange1.1g004702m,AT1G21270,wall-associated kinase 2,signalling.receptor kinases.wall associated kinase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WAK2,orange1.1g004702m,AT1G21270,wall-associated kinase 2,signalling.receptor kinases.wall associated kinase,mild_ctv_b2,mild Citrus tristeza virus strain B2,-1.43573,down
+TIR-NBS-LRR,orange1.1g004707m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TIR-NBS-LRR,orange1.1g004707m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.00882,up
+LHY1,orange1.1g004715m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g004715m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.635653,below_threshold
+LHY1,orange1.1g004715m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.60529,down
+TIR-NBS-LRR,orange1.1g004772m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TIR-NBS-LRR,orange1.1g004772m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.18158,up
+RLP1,orange1.1g005038m,AT1G07390,receptor like protein 1,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RK3,orange1.1g005206m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSP81-1,orange1.1g005321m,AT5G52640,Heat shock protein 90.1,stress.abiotic.heat,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSP81-1,orange1.1g005321m,AT5G52640,Heat shock protein 90.1,stress.abiotic.heat,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.62462,up
+HSP81-1,orange1.1g005370m,AT5G52640,Heat shock protein 90.1,stress.abiotic.heat,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSP81-1,orange1.1g005370m,AT5G52640,Heat shock protein 90.1,stress.abiotic.heat,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.23508,down
+RK3,orange1.1g005519m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g005610m,AT3G44830,Lecithin:cholesterolacyl transferase,"lipid metabolism.'exotics' (steroids, squalene etc).phosphatidylcholinesterol O-acyltransferase",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g005610m,AT3G44830,Lecithin:cholesterolacyl transferase,"lipid metabolism.'exotics' (steroids, squalene etc).phosphatidylcholinesterol O-acyltransferase",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.30899,up
+RLP15,orange1.1g005619m,AT1G74190,receptor like protein 15,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSC70,orange1.1g005824m,AT5G02500,heat shock cognate protein 70-1,stress.abiotic.heat,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSC70,orange1.1g005824m,AT5G02500,heat shock cognate protein 70-1,stress.abiotic.heat,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.06346,up
+BLH1,orange1.1g005890m,AT2G35940,BEL1-like homeo domain 1,"RNA.regulation of transcription.HB,Homeobox transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BLH1,orange1.1g005899m,AT2G35940,BEL1-like homeo domain 1,"RNA.regulation of transcription.HB,Homeobox transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BLH1,orange1.1g005901m,AT2G35940,BEL1-like homeo domain 1,"RNA.regulation of transcription.HB,Homeobox transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BLH1,orange1.1g005901m,AT2G35940,BEL1-like homeo domain 1,"RNA.regulation of transcription.HB,Homeobox transcription factor family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.04051,up
+PRR5,orange1.1g005920m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g005920m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.59141,up
+PRR5,orange1.1g005920m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.55894,up
+LHY1,orange1.1g006139m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LHY1,orange1.1g006139m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-0.598187,below_threshold
+LHY1,orange1.1g006139m,AT1G01060,late elongated hypocotyl,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.6122,down
+CRK2,orange1.1g006168m,AT1G70520,cysteine-rich RLK (receptor-like protein kinase) 2 ,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CRK2,orange1.1g006168m,AT1G70520,cysteine-rich RLK (receptor-like protein kinase) 2 ,signalling.receptor kinases.DUF 26,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.00334,up
+CSLB3,orange1.1g006357m,AT2G32530,cellulose synthase-like B3,cell wall.cellulose synthesis.cellulose synthase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CSLB3,orange1.1g006357m,AT2G32530,cellulose synthase-like B3,cell wall.cellulose synthesis.cellulose synthase,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.35572,up
+LOX2,orange1.1g006365m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+GALT1,orange1.1g006694m,AT1G26810,galactosyl transferase 1,"protein.glycosylation.beta-1,3-galactosyltransferase(beta-1,3-GalT)",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+GALT1,orange1.1g006694m,AT1G26810,galactosyl transferase 1,"protein.glycosylation.beta-1,3-galactosyltransferase(beta-1,3-GalT)",mild_ctv_b2,mild Citrus tristeza virus strain B2,2.45762,up
+SOBIR1,orange1.1g006739m,AT2G31880,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+EBF2,orange1.1g006749m,AT2G25490 ,EIN3-bindingFboxprotein2,protein.degradation.ubiquitin.E3.SCF.FBOX,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+EBF2,orange1.1g006749m,AT2G25490 ,EIN3-bindingFboxprotein2,protein.degradation.ubiquitin.E3.SCF.FBOX,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.2,down
+EBF2,orange1.1g006794m,AT2G25490,EIN3-bindingFboxprotein2,protein.degradation.ubiquitin.E3.SCF.FBOX,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+EBF2,orange1.1g006794m,AT2G25490,EIN3-bindingFboxprotein2,protein.degradation.ubiquitin.E3.SCF.FBOX,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.5,down
+CNGC1,orange1.1g006857m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RK3,orange1.1g006915m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RK3,orange1.1g006915m,AT4G21380,receptor kinase 3,signalling.receptor kinases.DUF 26,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.23928,up
+LOX2,orange1.1g006999m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BIR1,orange1.1g007088m,AT5G48380,BAK1-interacting receptor-like kinase 1,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BIR1,orange1.1g007088m,AT5G48380,BAK1-interacting receptor-like kinase 1,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.30437,up
+*,orange1.1g007154m,AT4G27290,S-locus lectin protein kinase ,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g007154m,AT4G27290,S-locus lectin protein kinase ,signalling.receptor kinases.DUF 26,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.74296,up
+CAT1,orange1.1g007398m,AT4G21120,amino acid transporter 1,transport.amino acids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CAT1,orange1.1g007398m,AT4G21120,amino acid transporter 1,transport.amino acids,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.06562,up
+PRR5,orange1.1g007462m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g007462m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.34256,up
+PRR5,orange1.1g007462m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,4.08954,up
+HSP81-1,orange1.1g007669m,AT5G52640,Heat shock protein 90.1,stress.abiotic.heat,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSP81-1,orange1.1g007669m,AT5G52640,Heat shock protein 90.1,stress.abiotic.heat,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.19566,down
+LOX2,orange1.1g007674m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LOX2,orange1.1g007678m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NPR3,orange1.1g007849m,AT5G45110,NPR1-like protein 3,cell.organisation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS14,orange1.1g007889m,AT1G61680,terpene synthase 14,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS14,orange1.1g007889m,AT1G61680,terpene synthase 14,secondary metabolism.isoprenoids.terpenoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.44434,up
+LAC5,orange1.1g008066m,AT2G40370,laccase5,secondary metabolism.simple phenols,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g008163m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g008281m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LAC7,orange1.1g008366m,AT3G09220,laccase7,secondary metabolism.simple phenols,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OPT1,orange1.1g008570m,AT5G55930,oligo peptide transporter 1,transport.peptides and oligopeptides,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OPT1,orange1.1g008570m,AT5G55930,oligo peptide transporter 1,transport.peptides and oligopeptides,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.18052,down
+CNGC1,orange1.1g008614m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CNGC1,orange1.1g008614m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.85144,up
+CNGC1,orange1.1g008614m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LOX2,orange1.1g008659m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CNGC1,orange1.1g008660m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CNGC1,orange1.1g008660m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.80235,up
+*,orange1.1g008675m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LAC4,orange1.1g008799m,AT2G38080,Laccase/Diphenol oxidase familyprotein,secondary metabolism.simple phenols,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PLT5,orange1.1g009185m,AT3G18830,polyol/mono saccharide transporter 5,transport.sugars,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PLT5,orange1.1g009185m,AT3G18830,polyol/mono saccharide transporter 5,transport.sugars,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.07844,up
+*,orange1.1g009272m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PMEI,orange1.1g009418m,AT5G20860,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP706A4,orange1.1g009495m,AT4G12300,"cytochromeP450,family706,subfamilyA,polypeptide4",misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP706A4,orange1.1g009495m,AT4G12300,"cytochromeP450,family706,subfamilyA,polypeptide4",misc.cytochrome P450,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.51387,up
+CYP706A4,orange1.1g009495m,AT4G12300,"cytochromeP450,family706,subfamilyA,polypeptide4",misc.cytochrome P450,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.46565,up
+NB-ARC,orange1.1g009534m,AT1G12280,LRR and NB-ARC domains-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g009534m,AT1G12280,LRR and NB-ARC domains-containing disease resistance protein,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.18158,up
+BGLU46,orange1.1g009535m,AT1G61820,betaglucosidase46,"misc.gluco-, galacto- and mannosidases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PMEI,orange1.1g009545m,AT5G20860,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NPR3,orange1.1g009554m,AT5G45110,NPR1-like protein 3,cell.organisation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PMEI,orange1.1g009682m,AT5G20860,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP82C4,orange1.1g009723m,AT4G31940,"cytochromeP450,family82,subfamilyC,polypeptide4",misc.cytochrome P453,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP82C4,orange1.1g009723m,AT4G31940,"cytochromeP450,family82,subfamilyC,polypeptide4",misc.cytochrome P453,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.2893,up
+PRR5,orange1.1g009734m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g009734m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.10821,up
+PRR5,orange1.1g009734m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.96658,up
+ABC-2 ,orange1.1g009738m,AT3G21090,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABC-2 ,orange1.1g009738m,AT3G21090,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.65318,up
+*,orange1.1g009771m,AT1G35710,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g009835m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+SULTR2;2,orange1.1g009895m,AT1G77990,STAS domain/Sulfate transporter family,transport.sulphate,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g010041m,AT1G35710,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PHT1;7,orange1.1g010076m,AT3G54700,phosphate transporter 1;7,transport.phosphate,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PHT1;7,orange1.1g010112m,AT3G54700,phosphate transporter 1;7,transport.phosphate,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BAT1,orange1.1g010352m,AT2G01170,bidirectional amino acid transporter 1,transport.amino acids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BAT1,orange1.1g010352m,AT2G01170,bidirectional amino acid transporter 1,transport.amino acids,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.07806,up
+CYP76G1,orange1.1g010359m,AT3G52970,"cytochromeP450,family76,subfamilyG,polypeptide1",misc.cytochrome P456,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP76G1,orange1.1g010359m,AT3G52970,"cytochromeP450,family76,subfamilyG,polypeptide1",misc.cytochrome P456,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.02875,up
+CYP75B1,orange1.1g010365m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP75B1,orange1.1g010388m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP75B1,orange1.1g010388m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.92729,up
+CYP75B1,orange1.1g010388m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.94037,up
+TPS21,orange1.1g010399m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS21,orange1.1g010399m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.06015,down
+CYP75B1,orange1.1g010625m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP75B1,orange1.1g010625m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.04408,up
+CYP71A26,orange1.1g010638m,AT3G48270,"cytochromeP450,family71,subfamilyA,polypeptide26",misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP71A26,orange1.1g010638m,AT3G48270,"cytochromeP450,family71,subfamilyA,polypeptide26",misc.cytochrome P450,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.44578,up
+PRR5,orange1.1g010665m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g010665m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.6777,up
+PRR5,orange1.1g010665m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,4.07202,up
+OPT7,orange1.1g010747m,AT4G10770,oligo peptide transporter 7,transport.peptides and oligopeptides,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OPT7,orange1.1g010747m,AT4G10770,oligo peptide transporter 7,transport.peptides and oligopeptides,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.59826,up
+NPR3,orange1.1g010793m,AT5G45110,NPR1-like protein 3,cell.organisation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP71B34,orange1.1g011096m,AT3G26300,"cytochromeP450,family71,subfamilyB,polypeptide34",misc.cytochrome P451,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP71B34,orange1.1g011096m,AT3G26300,"cytochromeP450,family71,subfamilyB,polypeptide34",misc.cytochrome P451,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.17836,up
+UDP-Glycosyl,orange1.1g011106m,AT5G12890,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UDP-Glycosyl,orange1.1g011106m,AT5G12890,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.95928,up
+PRR5,orange1.1g011192m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g011192m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.93609,up
+PRR5,orange1.1g011192m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.26829,up
+PRR5,orange1.1g011208m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g011208m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.40086,up
+PRR5,orange1.1g011208m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.84661,up
+PRR5,orange1.1g011217m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g011217m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.37568,up
+PRR5,orange1.1g011217m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.69846,up
+CYP71B34,orange1.1g011227m,AT3G26300,"cytochromeP450,family71,subfamilyB,polypeptide34",misc.cytochrome P452,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP71B34,orange1.1g011227m,AT3G26300,"cytochromeP450,family71,subfamilyB,polypeptide34",misc.cytochrome P452,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.12783,up
+,orange1.1g011248m,AT5G08780,winged-helixDNA-binding transcription factor,not assigned.unknown,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g011248m,AT5G08780,winged-helixDNA-binding transcription factor,not assigned.unknown,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.74407,up
+BCS1,orange1.1g011254m,AT3G50930,cytochrome BC1 synthesis,protein.degradation.AAA type,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP82G1,orange1.1g011292m,AT3G25180,"cytochromeP450,family82,subfamilyG,polypeptide1",misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP82G1,orange1.1g011292m,AT3G25180,"cytochromeP450,family82,subfamilyG,polypeptide1",misc.cytochrome P450,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.63269,up
+UDP-Glycosyl,orange1.1g011355m,AT5G59070,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UDP-Glycosyl,orange1.1g011355m,AT5G59070,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.20116,up
+SOBIR1,orange1.1g011360m,AT2G31880,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+SOBIR1,orange1.1g011360m,AT2G31880,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.84287,up
+UGT72B1,orange1.1g011396m,AT4G01070,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g011487m,AT4G19800,Glycosyl hydrolase family protein with chitinase insertion domain,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g011487m,AT4G19800,Glycosyl hydrolase family protein with chitinase insertion domain,stress.biotic,severe_ctv_b6,severe Citrus tristeza virus strain B6,4.21741,up
+PMEI,orange1.1g011489m,AT5G20860,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PMEI,orange1.1g011611m,AT5G20860,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+B-box,orange1.1g011625m,AT1G28050,B-box type zinc finger protein with CCT domain,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+B-box,orange1.1g011625m,AT1G28050,B-box type zinc finger protein with CCT domain,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.01679,up
+Calmodulin,orange1.1g011961m,AT1G73805,Calmodulin binding protein-like,signalling.calcium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Calmodulin,orange1.1g011961m,AT1G73805,Calmodulin binding protein-like,signalling.calcium,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.8,up
+TPS21,orange1.1g012005m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS21,orange1.1g012005m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.6777,up
+BCS1,orange1.1g012016m,AT3G50930,cytochrome BC1 synthesis,protein.degradation.AAA type,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g012057m,AT1G48100,Pectinlyase-like super family protein,cell wall.degradation.pectate lyases and polygalacturonases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g012057m,AT1G48100,Pectinlyase-like super family protein,cell wall.degradation.pectate lyases and polygalacturonases,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.06606,down
+BGLU11,orange1.1g012181m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BGLU11,orange1.1g012181m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.7517,up
+*,orange1.1g012219m,AT4G08850,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UDP-Glycosyl,orange1.1g012474m,AT3G11340,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+LOX2,orange1.1g012542m,AT3G45140,lipoxygenase2,hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UDP-Glycosyl,orange1.1g012678m,AT3G11340,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g012707m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NAC2,orange1.1g013027m,AT5G04410,NAC domain containing protein 2,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NAC2,orange1.1g013027m,AT5G04410,NAC domain containing protein 2,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.99489,up
+NAC2,orange1.1g013077m,AT5G04410,NAC domain containing protein 2,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NAC2,orange1.1g013077m,AT5G04410,NAC domain containing protein 2,development.unspecified,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.04933,up
+NAC2,orange1.1g013077m,AT5G04410,NAC domain containing protein 2,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.88683,up
+PRR5,orange1.1g013244m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g013244m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.43619,up
+PRR5,orange1.1g013244m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.73352,up
+NB-ARC,orange1.1g013440m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP83B1,orange1.1g013651m,AT4G31500,"cytochromeP450,family83,subfamilyB,polypeptide1",,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP83B1,orange1.1g013651m,AT4G31500,"cytochromeP450,family83,subfamilyB,polypeptide1",,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.66984,up
+ABC-2 ,orange1.1g013741m,AT3G21090,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABC-2 ,orange1.1g013741m,AT3G21090,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,mild_ctv_b2,mild Citrus tristeza virus strain B2,5.41276,up
+*,orange1.1g013793m,AT4G08850,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+VTE2,orange1.1g013845m,AT2G18950,homogentisatephytyl transferase1,secondary metabolism.isoprenoids.tocopherol biosynthesis.homogentisate phytyltransferase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+VTE2,orange1.1g013845m,AT2G18950,homogentisatephytyl transferase1,secondary metabolism.isoprenoids.tocopherol biosynthesis.homogentisate phytyltransferase,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.53734,down
+B-box,orange1.1g014102m,AT2G33500,B-box type zinc finger protein with CCT domain,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+B-box,orange1.1g014102m,AT2G33500,B-box type zinc finger protein with CCT domain,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.36725,up
+*,orange1.1g014206m,AT3G25810,Terpenoidcyclases/Proteinprenyl transferases,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OPT7,orange1.1g014451m,AT4G10770,oligo peptide transporter 7,transport.peptides and oligopeptides,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OPT7,orange1.1g014451m,AT4G10770,oligo peptide transporter 7,transport.peptides and oligopeptides,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.64793,up
+CDR1,orange1.1g014537m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CDR1,orange1.1g014537m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.93077,up
+*,orange1.1g014634m,AT3G28960,Transmem brane amino acid transporter ,transport.amino acids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g014634m,AT3G28960,Transmem brane amino acid transporter ,transport.amino acids,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.14752,up
+*,orange1.1g014679m,AT1G03220,Eukaryotic aspartyl protease ,protein.degradation.aspartate protease,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g014679m,AT1G03220,Eukaryotic aspartyl protease ,protein.degradation.aspartate protease,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.63766,down
+ZIP4,orange1.1g014759m,AT1G10970,zinc transporter 4 precursor,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP4,orange1.1g014759m,AT1G10970,zinc transporter 4 precursor,transport.metal,mild_ctv_b2,mild Citrus tristeza virus strain B2,-2.16179,down
+OPT7,orange1.1g014857m,AT4G10770,oligo peptide transporter 7,transport.peptides and oligopeptides,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OPT7,orange1.1g014857m,AT4G10770,oligo peptide transporter 7,transport.peptides and oligopeptides,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.90265,up
+PLP2,orange1.1g015047m,AT2G26560,phospholipaseA2A,development.storage proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PLP2,orange1.1g015047m,AT2G26560,phospholipaseA2A,development.storage proteins,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.70529,up
+TPS21,orange1.1g015245m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS21,orange1.1g015245m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.4736,up
+ZIP4,orange1.1g015318m,AT1G10970,zinc transporter 4 precursor,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP4,orange1.1g015318m,AT1G10970,zinc transporter 4 precursor,transport.metal,mild_ctv_b2,mild Citrus tristeza virus strain B2,-2.19029,down
+*,orange1.1g015588m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BGLU11,orange1.1g015605m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BGLU11,orange1.1g015605m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.27795,up
+WRKY27,orange1.1g015616m,AT5G52830,transcription factor WRKY27,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY27,orange1.1g015616m,AT5G52830,transcription factor WRKY27,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.15681,up
+JMJD5,orange1.1g015736m,AT3G20810, jumonji (jmjC) domain-containing protein,RNA.regulation of transcription.JUMONJI family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+JMJD5,orange1.1g015736m,AT3G20810, jumonji (jmjC) domain-containing protein,RNA.regulation of transcription.JUMONJI family,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.15937,up
+JMJD5,orange1.1g015736m,AT3G20810, jumonji (jmjC) domain-containing protein,RNA.regulation of transcription.JUMONJI family,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.35027,up
+BGLU11,orange1.1g015785m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BGLU11,orange1.1g015785m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.87832,up
+VTE2,orange1.1g015791m,AT2G18950,homogentisatephytyl transferase1,secondary metabolism.isoprenoids.tocopherol biosynthesis.homogentisate phytyltransferase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+VTE2,orange1.1g015791m,AT2G18950,homogentisatephytyl transferase1,secondary metabolism.isoprenoids.tocopherol biosynthesis.homogentisate phytyltransferase,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.25019,down
+PLP2,orange1.1g015803m,AT2G26560,phospholipaseA2A,development.storage proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PLP2,orange1.1g015803m,AT2G26560,phospholipaseA2A,development.storage proteins,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.7679,up
+CDR1,orange1.1g016180m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CDR1,orange1.1g016180m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.80339,up
+HSFA8,orange1.1g016378m,AT1G67970,heat shock transcription factor A8 ,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSFA8,orange1.1g016378m,AT1G67970,heat shock transcription factor A8 ,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.06092,up
+*,orange1.1g016534m,AT2G15320,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g016534m,AT2G15320,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.0822,up
+GATA8,orange1.1g016724m,AT3G54810,Plant-specific GATA-type zinc finger transcription factor ,RNA.regulation of transcription.C2C2(Zn) GATA transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+GATA8,orange1.1g016724m,AT3G54810,Plant-specific GATA-type zinc finger transcription factor ,RNA.regulation of transcription.C2C2(Zn) GATA transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.00097,up
+*,orange1.1g016822m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g017013m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR5,orange1.1g017013m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.44169,up
+PRR5,orange1.1g017013m,AT5G24470,pseudo-response regulator 5,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,4.17,up
+CDR1,orange1.1g017265m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CDR1,orange1.1g017265m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.73352,up
+PP2CA,orange1.1g017373m,AT3G11410,Protein phosphatase 2C family protein,protein.postranslational modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PP2CA,orange1.1g017373m,AT3G11410,Protein phosphatase 2C family protein,protein.postranslational modification,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.32676,up
+PP2CA,orange1.1g017373m,AT3G11410,Protein phosphatase 2C family protein,protein.postranslational modification,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.7837,up
+BGLU11,orange1.1g017505m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BGLU11,orange1.1g017505m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.27795,up
+JMT,orange1.1g017514m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+JMT,orange1.1g017514m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.34502,up
+JMT,orange1.1g017514m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.43076,up
+OMT1,orange1.1g017595m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OMT1,orange1.1g017595m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.05484,up
+*,orange1.1g017672m,AT1G43650,nodulinMtN21/EamA-like transporter,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g017672m,AT1G43650,nodulinMtN21/EamA-like transporter,development.unspecified,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.95442,up
+*,orange1.1g017672m,AT1G43650,nodulinMtN21/EamA-like transporter,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.16441,up
+HSFA6B,orange1.1g017694m,AT3G22830,heat shock transcription factor A6B,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSFA6B,orange1.1g017694m,AT3G22830,heat shock transcription factor A6B,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.37388,down
+HSFA6B,orange1.1g017721m,AT3G22830,heat shock transcription factor A6B,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSFA6B,orange1.1g017721m,AT3G22830,heat shock transcription factor A6B,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.41437,down
+WRKY33,orange1.1g017783m,AT2G38470,transcription factor WRKY33,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g017816m,AT3G21420,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g017934m,AT5G05600,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g017934m,AT5G05600,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.94655,up
+2OG-Fe(II),orange1.1g017979m,AT3G13610,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g017979m,AT3G13610,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.79205,up
+BGLU11,orange1.1g018009m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BGLU11,orange1.1g018009m,AT1G02850,betaglucosidase11,"misc.gluco-, galacto- and mannosidases",mild_ctv_b2,mild Citrus tristeza virus strain B2,2.07294,up
+ZIP5,orange1.1g018051m,AT1G05300,zinc transporter 5 precursor,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP5,orange1.1g018051m,AT1G05300,zinc transporter 5 precursor,transport.metal,mild_ctv_b2,mild Citrus tristeza virus strain B2,-2.51657,down
+ZIP5,orange1.1g018051m,AT1G05300,zinc transporter 5 precursor,transport.metal,severe_ctv_b6,severe Citrus tristeza virus strain B6,0.524487,below_threshold
+2OG-Fe(II),orange1.1g018077m,AT3G13610,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP1,orange1.1g018182m,AT3G12750,zinc transporter 1 precursor ,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+"THI1,TZ,THI4",orange1.1g018188m,AT5G54770,"thiazolebiosyntheticenzyme,chloroplast(ARA6)(THI1)(THI4)",Co-factor and vitamine metabolism.thiamine,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+"THI1,TZ,THI4",orange1.1g018188m,AT5G54770,"thiazolebiosyntheticenzyme,chloroplast(ARA6)(THI1)(THI4)",Co-factor and vitamine metabolism.thiamine,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.01568,up
+"THI1,TZ,THI4",orange1.1g018188m,AT5G54770,"thiazolebiosyntheticenzyme,chloroplast(ARA6)(THI1)(THI4)",Co-factor and vitamine metabolism.thiamine,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.98517,up
+TGA1,orange1.1g018192m,AT5G65210,bzip transcription factor,RNA.regulation of transcription.bZIP transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Calmodulin,orange1.1g018335m,AT1G73805,Calmodulin binding protein-like,signalling.calcium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OMT1,orange1.1g018405m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OMT1,orange1.1g018405m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.97605,up
+"THI1,TZ,THI4",orange1.1g018414m,AT5G54770,"thiazolebiosyntheticenzyme,chloroplast(ARA6)(THI1)(THI4)",Co-factor and vitamine metabolism.thiamine,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+"THI1,TZ,THI4",orange1.1g018414m,AT5G54770,"thiazolebiosyntheticenzyme,chloroplast(ARA6)(THI1)(THI4)",Co-factor and vitamine metabolism.thiamine,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.85226,up
+HSFC1,orange1.1g018495m,AT3G24520,heat shock transcription factor C1,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSFC1,orange1.1g018495m,AT3G24520,heat shock transcription factor C1,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.95465,up
+Calmodulin,orange1.1g018680m,AT1G73805,Calmodulin binding protein-like,signalling.calcium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP1,orange1.1g018732m,AT3G12750,zinc transporter 1 precursor ,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PA2,orange1.1g018796m,AT5G06720,peroxidase2,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PA2,orange1.1g018796m,AT5G06720,peroxidase2,misc.peroxidases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.24507,up
+*,orange1.1g018804m,AT5G07050,nodulinMtN21/EamA-like transporter,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PA2,orange1.1g018847m,AT5G06720,peroxidase2,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PA2,orange1.1g018847m,AT5G06720,peroxidase2,misc.peroxidases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.19672,up
+PA2,orange1.1g018873m,AT5G06720,peroxidase2,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PA2,orange1.1g018873m,AT5G06720,peroxidase2,misc.peroxidases,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.18512,up
+JMT,orange1.1g018892m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+JMT,orange1.1g018892m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.02006,up
+JMT,orange1.1g018892m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.15062,up
+*,orange1.1g018934m,AT5G40240,nodulinMtN21/EamA-like transporter,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g018934m,AT5G40240,nodulinMtN21/EamA-like transporter,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.19871,up
+*,orange1.1g019022m,AT5G40240,nodulinMtN21/EamA-like transporter,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g019022m,AT5G40240,nodulinMtN21/EamA-like transporter,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.12848,up
+2OG-Fe(II),orange1.1g019027m,AT4G10490,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g019027m,AT4G10490,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.24161,up
+2OG-Fe(II),orange1.1g019027m,AT4G10490,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,severe_ctv_b6,severe Citrus tristeza virus strain B6,4.10096,up
+CDR1,orange1.1g019179m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CDR1,orange1.1g019179m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.23545,up
+BG1,orange1.1g019260m,AT3G57270,"beta-1,3-glucanase1","misc.beta 1,3 glucan hydrolases.glucan endo-1,3-beta-glucosidase",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g019278m,AT1G71695,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY28,orange1.1g019375m,AT4G18170,transcription factor WRKY28,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSFA8,orange1.1g019422m,AT1G67970,heat shock transcription factor A8 ,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSFA8,orange1.1g019422m,AT1G67970,heat shock transcription factor A8 ,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.37224,up
+JMJD5,orange1.1g019532m,AT3G20810, jumonji (jmjC) domain-containing protein,RNA.regulation of transcription.JUMONJI family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+JMJD5,orange1.1g019532m,AT3G20810, jumonji (jmjC) domain-containing protein,RNA.regulation of transcription.JUMONJI family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.08114,up
+RCI3,orange1.1g019629m,AT1G05260,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RCI3,orange1.1g019629m,AT1G05260,Peroxidase super family protein,misc.peroxidases,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.10697,down
+DMR6,orange1.1g019665m,AT5G24530,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+DMR6,orange1.1g019665m,AT5G24530,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.85641,up
+DMR6,orange1.1g019665m,AT5G24530,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.76818,up
+*,orange1.1g019843m,AT3G47570,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g019843m,AT3G47570,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.24999,up
+MYB108,orange1.1g019911m,AT3G06490,"MYB108,AtMYB108,BOS1",RNA.regulation of transcription.MYB domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+MYB108,orange1.1g019911m,AT3G06490,"MYB108,AtMYB108,BOS1",RNA.regulation of transcription.MYB domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.85517,down
+2OG-Fe(II),orange1.1g020129m,AT3G21360,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,not assigned.unknown,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g020129m,AT3G21360,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,not assigned.unknown,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.06268,up
+CLH1,orange1.1g020188m,AT1G19670,chlorophyllase1,tetrapyrrole synthesis.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CLH1,orange1.1g020199m,AT1G19670,chlorophyllase1,tetrapyrrole synthesis.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ WRKY70,orange1.1g020291m,AT3G56400,transcription factor WRKY70,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ WRKY70,orange1.1g020291m,AT3G56400,transcription factor WRKY70,RNA.regulation of transcription.WRKY domain transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.81974,up
+ WRKY70,orange1.1g020291m,AT3G56400,transcription factor WRKY70,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.8643,up
+*,orange1.1g020389m, AT5G52660 ,myb family transcription factor,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g020389m, AT5G52660 ,myb family transcription factor,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.00468,up
+MYB62,orange1.1g020603m,AT1G68320,myb domain protein 62,RNA.regulation of transcription.MYB domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RCI3,orange1.1g020619m,AT1G05260,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RCI3,orange1.1g020619m,AT1G05260,Peroxidase super family protein,misc.peroxidases,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.08196,down
+ABR1,orange1.1g020801m,AT5G64750,Integrase-type DNA-binding  protein,"RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABR1,orange1.1g020801m,AT5G64750,Integrase-type DNA-binding  protein,"RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family",mild_ctv_b2,mild Citrus tristeza virus strain B2,3.16984,up
+"THI1,TZ,THI4",orange1.1g020815m,AT5G54770,"thiazolebiosyntheticenzyme,chloroplast(ARA6)(THI1)(THI4)",Co-factor and vitamine metabolism.thiamine,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+"THI1,TZ,THI4",orange1.1g020815m,AT5G54770,"thiazolebiosyntheticenzyme,chloroplast(ARA6)(THI1)(THI4)",Co-factor and vitamine metabolism.thiamine,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.89498,up
+ WRKY40,orange1.1g020831m,AT1G80840,transcription factor WRKY40,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+GGPS1,orange1.1g020845m,AT4G36810,geranylgeranylpyro phosphate synthase1,secondary metabolism.isoprenoids.non-mevalonate pathway.geranylgeranyl pyrophosphate synthase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+GGPS1,orange1.1g020845m,AT4G36810,geranylgeranylpyro phosphate synthase1,secondary metabolism.isoprenoids.non-mevalonate pathway.geranylgeranyl pyrophosphate synthase,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.88334,up
+CYP81D8,orange1.1g020899m,AT4G37370,"cytochromeP450,family81,subfamilyD,polypeptide8",misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABR1,orange1.1g020922m,AT5G64750,Integrase-type DNA-binding  protein,"RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABR1,orange1.1g020922m,AT5G64750,Integrase-type DNA-binding  protein,"RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family",mild_ctv_b2,mild Citrus tristeza virus strain B2,2.68756,up
+CLH2,orange1.1g020950m,AT5G43860,chlorophyllase2,tetrapyrrole synthesis.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g020998m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g020998m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.2,up
+,orange1.1g021009m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021009m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.4,up
+,orange1.1g021012m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021012m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.8,up
+,orange1.1g021013m,AT5G25560 ,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021013m,AT5G25560 ,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.6,up
+,orange1.1g021021m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021021m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.1,up
+,orange1.1g021022m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021022m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.2,up
+,orange1.1g021038m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021038m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.6,up
+,orange1.1g021043m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021043m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.3,up
+,orange1.1g021049m,AT5G25560 ,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021049m,AT5G25560 ,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.3,up
+,orange1.1g021059m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021059m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.2,up
+,orange1.1g021060m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021060m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.2,up
+MYB44,orange1.1g021071m,AT5G67300,myb domain proteinr 1,RNA.regulation of transcription.MYB domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+MYB44,orange1.1g021071m,AT5G67300,myb domain proteinr 1,RNA.regulation of transcription.MYB domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.00895,up
+*,orange1.1g021118m,AT5G42180,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g021118m,AT5G42180,Peroxidase super family protein,misc.peroxidases,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.48181,up
+JMJD5,orange1.1g021131m,AT3G20810, jumonji (jmjC) domain-containing protein,RNA.regulation of transcription.JUMONJI family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+JMJD5,orange1.1g021131m,AT3G20810, jumonji (jmjC) domain-containing protein,RNA.regulation of transcription.JUMONJI family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.34415,up
+MYB62,orange1.1g021188m,AT1G68320,myb domain protein 62,RNA.regulation of transcription.MYB domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP9,orange1.1g021196m,AT1G58190,receptor like protein 9,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP9,orange1.1g021196m,AT1G58190,receptor like protein 9,stress.biotic,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.36963,up
+,orange1.1g021224m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021224m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.3,up
+UTR2,orange1.1g021318m,AT4G23010,UDP-galactose transporter 2,transport.NDP-sugars at the ER,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UTR2,orange1.1g021318m,AT4G23010,UDP-galactose transporter 2,transport.NDP-sugars at the ER,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.19477,up
+B-box,orange1.1g021343m,AT1G28050,B-box type zinc finger protein with CCT domain,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+B-box,orange1.1g021343m,AT1G28050,B-box type zinc finger protein with CCT domain,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.44317,up
+*,orange1.1g021430m,AT5G42180,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g021442m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g021442m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),mild_ctv_b2,mild Citrus tristeza virus strain B2,1.35333,up
+*,orange1.1g021442m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),severe_ctv_b6,severe Citrus tristeza virus strain B6,1.91938,up
+*,orange1.1g021592m,AT1G49570,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g021592m,AT1G49570,Peroxidase super family protein,misc.peroxidases,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.30549,up
+ WRKY70,orange1.1g021598m,AT3G56400,transcription factor WRKY70,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ WRKY70,orange1.1g021598m,AT3G56400,transcription factor WRKY70,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.78976,up
+Oxidoreductase,orange1.1g021628m,AT1G23740,"Oxidoreductase,zinc-binding dehydrogenase","misc.oxidases - copper, flavone etc",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Oxidoreductase,orange1.1g021628m,AT1G23740,"Oxidoreductase,zinc-binding dehydrogenase","misc.oxidases - copper, flavone etc",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.84363,up
+,orange1.1g021781m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021781m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.1,up
+,orange1.1g021794m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g021794m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.2,up
+NAC072,orange1.1g021882m,AT4G27410,NAC(NoApicalMeristem) domain transcriptional regulator,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g022076m, AT5G52660 ,myb family transcription factor,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g022076m, AT5G52660 ,myb family transcription factor,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.16246,up
+MYB44,orange1.1g022144m,AT5G67300,myb domain proteinr 1,RNA.regulation of transcription.MYB domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+MYB44,orange1.1g022144m,AT5G67300,myb domain proteinr 1,RNA.regulation of transcription.MYB domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.31388,up
+XTR6,orange1.1g022933m,AT5G65730,xyloglucan endotrans glucosylase/hydrolase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g022948m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g022948m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),mild_ctv_b2,mild Citrus tristeza virus strain B2,1.76147,up
+*,orange1.1g022948m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),severe_ctv_b6,severe Citrus tristeza virus strain B6,1.9898,up
+XTR6,orange1.1g023112m,AT5G65730,xyloglucan endotrans glucosylase/hydrolase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XTR6/XTH23,orange1.1g023204m,AT4G25810,xyloglucan endotrans glycosylase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XTR6/XTH23,orange1.1g023204m,AT4G25810,xyloglucan endotrans glycosylase6,cell wall.modification,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.12783,up
+XTR6/XTH23,orange1.1g023204m,AT4G25810,xyloglucan endotrans glycosylase6,cell wall.modification,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.80235,up
+ERF104,orange1.1g023209m,AT5G61600,ethylene response factor 104,hormone metabolism.ethylene.signal transduction,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Oxidoreductase,orange1.1g023273m,AT1G23740,"Oxidoreductase,zinc-binding dehydrogenase","misc.oxidases - copper, flavone etc",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Oxidoreductase,orange1.1g023273m,AT1G23740,"Oxidoreductase,zinc-binding dehydrogenase","misc.oxidases - copper, flavone etc",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.34561,up
+*,orange1.1g023276m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g023423m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g023423m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),mild_ctv_b2,mild Citrus tristeza virus strain B2,1.49698,up
+*,orange1.1g023423m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),severe_ctv_b6,severe Citrus tristeza virus strain B6,2.14934,up
+WAKL7,orange1.1g023486m,AT1G16090,walla ssociated kinase-like 7,signalling.receptor kinases.wall associated kinase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PA2,orange1.1g023510m,AT5G06720,peroxidase2,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PA2,orange1.1g023510m,AT5G06720,peroxidase2,misc.peroxidases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.66082,up
+*,orange1.1g023625m,AT4G35160,O-methyl transferase ,secondary metabolism.phenylpropanoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g023625m,AT4G35160,O-methyl transferase ,secondary metabolism.phenylpropanoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.89551,up
+*,orange1.1g024176m,AT5G03140,Concanavalin A-like lectin protein kinase family protein,misc.myrosinases-lectin-jacalin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABI1,orange1.1g024217m,AT4G26080,Protein phosphatase 2C family protein,protein.postranslational modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABI1,orange1.1g024217m,AT4G26080,Protein phosphatase 2C family protein,protein.postranslational modification,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.29707,up
+ABI1,orange1.1g024217m,AT4G26080,Protein phosphatase 2C family protein,protein.postranslational modification,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.52916,up
+EXPB2,orange1.1g024303m,AT1G65680,expansin B2,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g024323m,AT4G08300,nodulinMtN21/EamA-like transporter,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+JMT,orange1.1g024331m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+JMT,orange1.1g024331m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.76248,up
+JMT,orange1.1g024331m,AT1G19640,jasmonic acid carboxyl methyl transferase ,hormone metabolism.salicylic acid.synthesis-degradation,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.05442,up
+*,orange1.1g024485m, AT5G52660 ,myb family transcription factor,RNA.regulation of transcription.MYB-related transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g024485m, AT5G52660 ,myb family transcription factor,RNA.regulation of transcription.MYB-related transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.10463,up
+BCS1,orange1.1g024550m,AT3G50930,cytochrome BC1 synthesis,protein.degradation.AAA type,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+BCS1,orange1.1g024550m,AT3G50930,cytochrome BC1 synthesis,protein.degradation.AAA type,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.35594,up
+RLP14,orange1.1g024731m,AT1G74180,receptor like protein 14,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ConA,orange1.1g024824m,AT4G04960,Concanavalin A-like lectin protein kinase family protein,misc.myrosinases-lectin-jacalin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ConA,orange1.1g024824m,AT4G04960,Concanavalin A-like lectin protein kinase family protein,misc.myrosinases-lectin-jacalin,mild_ctv_b2,mild Citrus tristeza virus strain B2,5.85701,up
+ WRKY40,orange1.1g025097m,AT1G80840,transcription factor WRKY40,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ WRKY40,orange1.1g025175m,AT1G80840,transcription factor WRKY40,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+EXPA8,orange1.1g025193m,AT2G40610,expansin A8,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+EXPA8,orange1.1g025193m,AT2G40610,expansin A8,cell wall.modification,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.1553,up
+Oxidoreductase,orange1.1g025278m,AT1G23740,"Oxidoreductase,zinc-binding dehydrogenase","misc.oxidases - copper, flavone etc",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Oxidoreductase,orange1.1g025278m,AT1G23740,"Oxidoreductase,zinc-binding dehydrogenase","misc.oxidases - copper, flavone etc",severe_ctv_b6,severe Citrus tristeza virus strain B6,2.00748,up
+ERF72,orange1.1g025382m,AT3G16770,ethylene-responsive element binding protein,"RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ERF72,orange1.1g025382m,AT3G16770,ethylene-responsive element binding protein,"RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family",mild_ctv_b2,mild Citrus tristeza virus strain B2,-1.61803,down
+ WRKY40,orange1.1g025402m,AT1G80840,transcription factor WRKY40,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g025507m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g025507m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.5,up
+APX2,orange1.1g025588m,AT3G09640,ascorbate peroxidase2,redox.ascorbate and glutathione.ascorbate,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g025665m,AT5G57150,basic helix-loop-helix(bHLH) DNA-binding  protein,"RNA.regulation of transcription.bHLH,Basic Helix-Loop-Helix family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g025665m,AT5G57150,basic helix-loop-helix(bHLH) DNA-binding  protein,"RNA.regulation of transcription.bHLH,Basic Helix-Loop-Helix family",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.10418,up
+*,orange1.1g025727m,AT5G57150,basic helix-loop-helix(bHLH) DNA-binding  protein,"RNA.regulation of transcription.bHLH,Basic Helix-Loop-Helix family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g025727m,AT5G57150,basic helix-loop-helix(bHLH) DNA-binding  protein,"RNA.regulation of transcription.bHLH,Basic Helix-Loop-Helix family",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.06245,up
+EXLB1,orange1.1g025808m,AT4G17030,expansin-like B1,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g026021m,AT5G45920,SGNHhydrolase-typeesterase,misc.GDSL-motif lipase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g026021m,AT5G45920,SGNHhydrolase-typeesterase,misc.GDSL-motif lipase,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.62818,up
+*,orange1.1g026022m,AT1G07050,CCT motif family protein,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g026022m,AT1G07050,CCT motif family protein,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.18158,up
+*,orange1.1g026022m,AT1G07050,CCT motif family protein,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",severe_ctv_b6,severe Citrus tristeza virus strain B6,4.62857,up
+*,orange1.1g026143m,AT5G15800,K-box region and MADS-box transcription factor ,RNA.regulation of transcription.MADS box transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g026143m,AT5G15800,K-box region and MADS-box transcription factor ,RNA.regulation of transcription.MADS box transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.38749,up
+*,orange1.1g026183m,AT2G38380,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g026183m,AT2G38380,Peroxidase super family protein,misc.peroxidases,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.5571,up
+ARR9,orange1.1g026247m,AT3G57040,response regulator 9,RNA.regulation of transcription.ARR,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ARR9,orange1.1g026247m,AT3G57040,response regulator 9,RNA.regulation of transcription.ARR,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.48239,up
+,orange1.1g026563m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g026563m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.7,up
+*,orange1.1g027073m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g027073m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),severe_ctv_b6,severe Citrus tristeza virus strain B6,1.44141,up
+PMEI,orange1.1g027094m,AT5G62360,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g027127m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g027127m,AT5G25560,zinc finger (C3HC4-type RING finger) ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.5,up
+OSM34,orange1.1g027335m,AT4G11650,osmotin34,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OSM34,orange1.1g027335m,AT4G11650,osmotin34,stress.biotic,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.17446,down
+EXLB1,orange1.1g027391m,AT4G17030,expansin-like B1,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Kunitz,orange1.1g027419m,AT1G17860,Kunitz family trypsin and protease inhibitor protein,stress.biotic.PR-proteins.proteinase inhibitors.trypsin inhibitor,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Ca EF-hand,orange1.1g027442m,AT4G13440,Calcium-binding EF-hand family protein,signalling.calcium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Ca EF-hand,orange1.1g027442m,AT4G13440,Calcium-binding EF-hand family protein,signalling.calcium,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.15661,up
+SHN1,orange1.1g027896m,AT1G15360,Integrase-type DNA-binding  protein,"RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g027958m,AT1G51550,F-box family protein ,protein.degradation.ubiquitin.E3.SCF.FBOX,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g027958m,AT1G51550,F-box family protein ,protein.degradation.ubiquitin.E3.SCF.FBOX,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.1,down
+*,orange1.1g028230m,AT5G40240,nodulinMtN21/EamA-like transporter,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Kunitz,orange1.1g028238m,AT1G17860,Kunitz family trypsin and protease inhibitor protein,stress.biotic.PR-proteins.proteinase inhibitors.trypsin inhibitor,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XTR6,orange1.1g028253m,AT5G65730,xyloglucan endotrans glucosylase/hydrolase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Ca EF-hand,orange1.1g028383m,AT5G39670,Calcium-binding EF-hand family protein,signalling.calcium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP14,orange1.1g028394m,AT1G74180,receptor likeprotein 14,not assigned.unknown,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP14,orange1.1g028394m,AT1G74180,receptor likeprotein 14,not assigned.unknown,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.24314,up
+*,orange1.1g028462m,AT3G56230,BTB/POZ domain-containing protein,protein.degradation.ubiquitin.E3.BTB/POZ Cullin3.BTB/POZ,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g028462m,AT3G56230,BTB/POZ domain-containing protein,protein.degradation.ubiquitin.E3.BTB/POZ Cullin3.BTB/POZ,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.91429,up
+ERF-1,orange1.1g028566m,AT4G17500,ethylene responsive element binding factor 1,hormone metabolism.ethylene.signal transduction,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ERF-1,orange1.1g028566m,AT4G17500,ethylene responsive element binding factor 1,hormone metabolism.ethylene.signal transduction,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.60554,up
+PMEI,orange1.1g028904m,AT5G62360,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g028994m,AT5G57040,Lactoylglutathionelyase/glyoxalaseI,Biodegradation of Xenobiotics.lactoylglutathione lyase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g028994m,AT5G57040,Lactoylglutathionelyase/glyoxalaseI,Biodegradation of Xenobiotics.lactoylglutathione lyase,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.20958,up
+*,orange1.1g029050m,AT5G57040,Lactoylglutathionelyase/glyoxalaseI,Biodegradation of Xenobiotics.lactoylglutathione lyase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029050m,AT5G57040,Lactoylglutathionelyase/glyoxalaseI,Biodegradation of Xenobiotics.lactoylglutathione lyase,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.03419,up
+WLIM1,orange1.1g029070m,AT1G10200,GATA type zinc finger transcription factor ,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WLIM1,orange1.1g029070m,AT1G10200,GATA type zinc finger transcription factor ,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.21332,up
+VTE2,orange1.1g029089m,AT2G18950,homogentisatephytyl transferase1,secondary metabolism.isoprenoids.tocopherol biosynthesis.homogentisate phytyltransferase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+VTE2,orange1.1g029089m,AT2G18950,homogentisatephytyl transferase1,secondary metabolism.isoprenoids.tocopherol biosynthesis.homogentisate phytyltransferase,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.73226,up
+WRKY51,orange1.1g029257m,AT5G64810,transcription factor WRKY51,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY51,orange1.1g029257m,AT5G64810,transcription factor WRKY51,RNA.regulation of transcription.WRKY domain transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.07294,up
+XTR6,orange1.1g029328m,AT5G65730,xyloglucan endotrans glucosylase/hydrolase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XTR6,orange1.1g029426m,AT5G65730,xyloglucan endotrans glucosylase/hydrolase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XTR6,orange1.1g029460m,AT5G65730,xyloglucan endotrans glucosylase/hydrolase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XTR6,orange1.1g029461m,AT5G65730,xyloglucan endotrans glucosylase/hydrolase6,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029568m,AT1G80160,Lactoylglutathionelyase/glyoxalaseI,Biodegradation of Xenobiotics.lactoylglutathione lyase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029568m,AT1G80160,Lactoylglutathionelyase/glyoxalaseI,Biodegradation of Xenobiotics.lactoylglutathione lyase,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.08871,up
+*,orange1.1g029618m,AT1G07050,CCT motif family protein,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029618m,AT1G07050,CCT motif family protein,"RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family",severe_ctv_b6,severe Citrus tristeza virus strain B6,4.43162,up
+*,orange1.1g029641m,AT1G58170,Disease resistance-responsive (dirigent-likeprotein) family protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029641m,AT1G58170,Disease resistance-responsive (dirigent-likeprotein) family protein,stress.biotic.PR-proteins,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.83727,up
+,orange1.1g029670m,AT5G25560 , zinc finger (C3HC4-type RING ,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g029670m,AT5G25560 , zinc finger (C3HC4-type RING ,protein.degradation.ubiquitin.E3.RING,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.2,up
+WCRKC1,orange1.1g029703m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g029703m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.21922,up
+*,orange1.1g029746m,AT1G58170,Disease resistance-responsive (dirigent-likeprotein) family protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029748m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029748m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),mild_ctv_b2,mild Citrus tristeza virus strain B2,1.23223,up
+*,orange1.1g029748m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),severe_ctv_b6,severe Citrus tristeza virus strain B6,1.61097,up
+*,orange1.1g029919m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g029919m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),mild_ctv_b2,mild Citrus tristeza virus strain B2,1.47924,up
+*,orange1.1g029919m,AT1G70820,"phosphoglucomutase,putative/glucosephosphomutase,putative",glycolysis.plastid branch.phosphoglucomutase (PGM),severe_ctv_b6,severe Citrus tristeza virus strain B6,1.81215,up
+ACD2,orange1.1g029930m,AT4G37000,accelerate cell death2,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ACD2,orange1.1g029930m,AT4G37000,accelerate cell death2,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.7332,up
+OMT1,orange1.1g030025m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OMT1,orange1.1g030025m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.55278,up
+AGL22,orange1.1g030090m,AT2G22540,K-box region and MADS-box transcription factor ,RNA.regulation of transcription.MADS box transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+AGL22,orange1.1g030090m,AT2G22540,K-box region and MADS-box transcription factor ,RNA.regulation of transcription.MADS box transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.01153,down
+WCRKC1,orange1.1g030114m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g030114m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.37607,up
+,orange1.1g030216m,AT1G71000,Chaperone DnaJ-domain super family protein,stress.abiotic.heat,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g030216m,AT1G71000,Chaperone DnaJ-domain super family protein,stress.abiotic.heat,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.24493,up
+,orange1.1g030216m,AT1G71000,Chaperone DnaJ-domain super family protein,stress.abiotic.heat,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.49911,up
+TIR-NBS-LRR,orange1.1g030514m,AT2G20142,Toll-Interleukin-Resistance(TIR) domain family protein,stress.biotic.receptors,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g030523m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g030523m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.24314,up
+ERF-1,orange1.1g031071m,AT3G23240,ethylene responsive element binding factor 1,hormone metabolism.ethylene.signal transduction,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+MLP423,orange1.1g031364m,AT1G24020,MLP-like protein423,RNA.processing.ribonucleases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY50,orange1.1g031482m,AT5G26170,transcription factor WRKY50,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY50,orange1.1g031482m,AT5G26170,transcription factor WRKY50,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.51157,up
+Ca EF-hand,orange1.1g031582m,AT1G24620,Calcium-binding EF-hand family protein,signalling.calcium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g031608m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g031608m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.66626,up
+WCRKC1,orange1.1g031630m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g031630m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.00816,up
+PR4,orange1.1g032285m,AT3G04720,pathogenesis-related 4,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PR4,orange1.1g032389m,AT3G04720,pathogenesis-related 4,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CCL,orange1.1g032466m,AT3G26740,CCR-like,signalling.light,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CCL,orange1.1g032466m,AT3G26740,CCR-like,signalling.light,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.08013,up
+CCL,orange1.1g032466m,AT3G26740,CCR-like,signalling.light,severe_ctv_b6,severe Citrus tristeza virus strain B6,4.90148,up
+WRKY13,orange1.1g032690m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY13,orange1.1g032690m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.16663,up
+EXLB3 ,orange1.1g032956m,AT2G18660,EXPANSIN-LIKE B3 PRECURSOR,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+EXLB3 ,orange1.1g032956m,AT2G18660,EXPANSIN-LIKE B3 PRECURSOR,cell wall.modification,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.19672,up
+*,orange1.1g032967m,AT3G53220,Thioredoxin super family protein,redox.thioredoxin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g033006m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WCRKC1,orange1.1g033006m,AT5G06690,WCRKC thioredoxin1,redox.thioredoxin,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.40211,up
+COPT1,orange1.1g033054m,AT5G59030,copper transporter 1,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g033055m,AT2G38870,"Serine protease inhibitor,potatoinhibitorI-type family protein",RNA.processing.ribonucleases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY13,orange1.1g033112m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY13,orange1.1g033112m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.90205,up
+ABC-2,orange1.1g033293m,AT1G51500,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ABC-2,orange1.1g033293m,AT1G51500,ABC-2 type transporter ,transport.ABC transporters and multidrug resistance systems,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.36157,up
+WRKY13,orange1.1g033558m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY13,orange1.1g033558m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.99594,up
+CCL,orange1.1g033560m,AT3G26740,CCR-like,signalling.light,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CCL,orange1.1g033560m,AT3G26740,CCR-like,signalling.light,severe_ctv_b6,severe Citrus tristeza virus strain B6,4.59794,up
+WRKY13,orange1.1g033567m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY13,orange1.1g033567m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.26678,up
+WRKY13,orange1.1g033576m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY13,orange1.1g033576m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.26678,up
+CCL,orange1.1g033578m,AT3G26740,CCR-like,signalling.light,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CCL,orange1.1g033578m,AT3G26740,CCR-like,signalling.light,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.17836,up
+CCL,orange1.1g033578m,AT3G26740,CCR-like,signalling.light,severe_ctv_b6,severe Citrus tristeza virus strain B6,5.01592,up
+WRKY13,orange1.1g033590m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WRKY13,orange1.1g033590m,AT4G39410,transcription factor WRKY13,RNA.regulation of transcription.WRKY domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.03173,up
+SAG21,orange1.1g034308m,AT4G02380,senescence-associated gene21,not assigned.unknown,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g035201m,AT1G66330,senescence-associated family protein,development.unspecified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g035201m,AT1G66330,senescence-associated family protein,development.unspecified,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.01403,down
+*,orange1.1g035431m,AT5G14920,Gibberellin-regulated family protein,hormone metabolism.gibberelin.induced-regulated-responsive-activated,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g035431m,AT5G14920,Gibberellin-regulated family protein,hormone metabolism.gibberelin.induced-regulated-responsive-activated,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.59036,down
+SRG1,orange1.1g035879m,AT1G17020,senescence-related gene1,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+SRG1,orange1.1g035879m,AT1G17020,senescence-related gene1,hormone metabolism.ethylene.synthesis-degradation,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.232,up
+RLK,orange1.1g036051m,AT2G37710,receptorlectinkinase,misc.myrosinases-lectin-jacalin,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UGT74B1,orange1.1g036105m,AT1G24100,UDP-glucosyl transferase 74B1,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WAK2,orange1.1g036131m,AT1G21270,wall-associated kinase 2,signalling.receptor kinases.wall associated kinase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g036168m,AT3G14470,NB-ARC domain-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g036168m,AT3G14470,NB-ARC domain-containing disease resistance protein,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.20116,up
+*,orange1.1g036265m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g036265m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.3142,up
+SAG13,orange1.1g036388m,AT2G29350,senescence-associatedgene13,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+SAG13,orange1.1g036388m,AT2G29350,senescence-associatedgene13,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",mild_ctv_b2,mild Citrus tristeza virus strain B2,1.30235,up
+GSTL3,orange1.1g036444m,AT5G02790,GlutathioneS-transferase,misc.glutathione S transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+GSTL3,orange1.1g036444m,AT5G02790,GlutathioneS-transferase,misc.glutathione S transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.75739,up
+WAKL10,orange1.1g036483m,AT1G79680,WALL ASSOCIATED KINASE(WAK)-LIKE10,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g036584m,AT3G46730,NB-ARC domain-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g036584m,AT3G46730,NB-ARC domain-containing disease resistance protein,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.36867,up
+CNGC1,orange1.1g036610m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CNGC1,orange1.1g036610m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.53687,up
+NB-ARC,orange1.1g036619m,AT3G14470,NB-ARC domain-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP82C4,orange1.1g036916m,AT4G31940,"cytochromeP450,family82,subfamilyC,polypeptide4",misc.cytochrome P454,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CSLA2,orange1.1g037406m,AT5G22740,cellulose synthase-like A2,cell wall.cellulose synthesis,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CSLA2,orange1.1g037406m,AT5G22740,cellulose synthase-like A2,cell wall.cellulose synthesis,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.16646,up
+NB-ARC,orange1.1g037465m,AT3G14460,LRR and NB-ARC domains-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g037504m,AT3G54070,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g037504m,AT3G54070,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.29218,up
+TIR-NBS-LRR,orange1.1g037604m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TIR-NBS-LRR,orange1.1g037604m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.08601,up
+,orange1.1g037671m,AT5G67140,F-box/RNI-likesuperfamilyprotein,protein.degradation.ubiquitin.E3.SCF.FBOX,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g037671m,AT5G67140,F-box/RNI-likesuperfamilyprotein,protein.degradation.ubiquitin.E3.SCF.FBOX,mild_ctv_b2,mild Citrus tristeza virus strain B2,-2.90357,down
+*,orange1.1g037778m,AT3G54070,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g037778m,AT3G54070,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.621,up
+*,orange1.1g037784m,AT1G03220,Eukaryotic aspartyl protease ,protein.degradation.aspartate protease,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g037784m,AT1G03220,Eukaryotic aspartyl protease ,protein.degradation.aspartate protease,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.40275,down
+TIR-NBS-LRR,orange1.1g037850m,AT2G20142,Toll-Interleukin-Resistance(TIR) domain family protein,stress.biotic.receptors,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g037851m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g037935m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g038103m,AT2G19130,S-locus lectin protein kinase ,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g038103m,AT2G19130,S-locus lectin protein kinase ,signalling.receptor kinases.DUF 26,severe_ctv_b6,severe Citrus tristeza virus strain B6,-2.43122,down
+CNGC1,orange1.1g038306m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CNGC1,orange1.1g038306m,AT5G53130,cyclic nucleotide gated channel 1,transport.cyclic nucleotide or calcium regulated channels,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.78863,up
+PPR7,orange1.1g038567m,AT5G02810,pseudo-response regulator 7,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PPR7,orange1.1g038567m,AT5G02810,pseudo-response regulator 7,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.27469,up
+PPR7,orange1.1g038567m,AT5G02810,pseudo-response regulator 7,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.84856,up
+COBL7,orange1.1g038710m,AT4G16120,COBRA-likeprotein-7 precursor ,cell wall.cellulose synthesis.COBRA,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+COBL7,orange1.1g038710m,AT4G16120,COBRA-likeprotein-7 precursor ,cell wall.cellulose synthesis.COBRA,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.16984,up
+NB-ARC,orange1.1g038902m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NPR4,orange1.1g038955m,AT4G19660,NPR1-like protein 4,cell.organisation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+EXLB3 ,orange1.1g039202m,AT2G18660,EXPANSIN-LIKE B3 PRECURSOR,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g039262m,AT1G12280,LRR and NB-ARC domains-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g039262m,AT1G12280,LRR and NB-ARC domains-containing disease resistance protein,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.38749,up
+RLP13,orange1.1g039327m,AT1G74170,receptor like protein 13,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ERF-1,orange1.1g039409m,AT3G23240,ethylene responsive element binding factor 1,hormone metabolism.ethylene.signal transduction,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g039451m,AT1G24110,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g039514m,AT3G47110,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g039524m,AT3G13610,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+2OG-Fe(II),orange1.1g039524m,AT3G13610,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenases,hormone metabolism.ethylene.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,8.94965,up
+PRR3,orange1.1g039733m,AT5G60100,pseudo-response regulator 3,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PRR3,orange1.1g039733m,AT5G60100,pseudo-response regulator 3,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.58622,up
+ZIP5,orange1.1g040032m,AT1G05300,zinc transporter 5 precursor,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP5,orange1.1g040032m,AT1G05300,zinc transporter 5 precursor,transport.metal,severe_ctv_b6,severe Citrus tristeza virus strain B6,0.847257,below_threshold
+*,orange1.1g040309m,AT4G35160,O-methyl transferase ,secondary metabolism.phenylpropanoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g040309m,AT4G35160,O-methyl transferase ,secondary metabolism.phenylpropanoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.62645,up
+CC-NBS-LRR,orange1.1g040318m,AT5G63020,Diseasere sistance protein(CC-NBS-LRRclass)family,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CC-NBS-LRR,orange1.1g040318m,AT5G63020,Diseasere sistance protein(CC-NBS-LRRclass)family,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.82401,up
+Kunitz,orange1.1g040351m,AT1G17860,Kunitzfamilytrypsinandproteaseinhibitorprotein,not assigned.unknown,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Kunitz,orange1.1g040351m,AT1G17860,Kunitzfamilytrypsinandproteaseinhibitorprotein,not assigned.unknown,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.38164,up
+RLP45,orange1.1g040468m,AT3G53240,receptor like protein 45,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP45,orange1.1g040468m,AT3G53240,receptor like protein 45,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.16362,up
+CDR1,orange1.1g040562m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CDR1,orange1.1g040562m,AT5G33340,Eukaryotic aspartyl protease ,RNA.regulation of transcription.unclassified,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.13406,up
+SRG1,orange1.1g040640m,AT1G17020,senescence-related gene1,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+SRG1,orange1.1g040640m,AT1G17020,senescence-related gene1,hormone metabolism.ethylene.synthesis-degradation,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.55278,up
+RLP15,orange1.1g040699m,AT1G74190,receptor like protein 15,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP15,orange1.1g040699m,AT1G74190,receptor like protein 15,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.37973,up
+NB-ARC,orange1.1g040774m,AT4G27220,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g041178m,AT1G35710,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g041178m,AT1G35710,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.66755,up
+BCS1,orange1.1g041382m,AT3G50930,cytochrome BC1 synthesis,protein.degradation.AAA type,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PP2-B10,orange1.1g041394m,AT2G02360,phloem protein2-B10,cell.organisation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PP2-B10,orange1.1g041394m,AT2G02360,phloem protein2-B10,cell.organisation,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.06457,up
+HSC70,orange1.1g041815m,AT5G02500,heat shock cognate protein 70-1,stress.abiotic.heat,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSC70,orange1.1g041815m,AT5G02500,heat shock cognate protein 70-1,stress.abiotic.heat,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.05932,up
+WAK1,orange1.1g041859m,AT1G21250,cell wall-associated kinase,not assigned.unknown,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g041900m,AT1G31950,Terpenoidcyclases/Proteinprenyl transferases,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g041900m,AT1G31950,Terpenoidcyclases/Proteinprenyl transferases,secondary metabolism.isoprenoids.terpenoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,4.71573,up
+TPS21,orange1.1g041926m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS21,orange1.1g041926m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,8.21568,up
+CYP71A26,orange1.1g041964m,AT3G48270,"cytochromeP450,family71,subfamilyA,polypeptide26",misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP71A26,orange1.1g041964m,AT3G48270,"cytochromeP450,family71,subfamilyA,polypeptide26",misc.cytochrome P450,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.36084,down
+COPT1,orange1.1g042215m,AT5G59030,copper transporter 1,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+COPT1,orange1.1g042215m,AT5G59030,copper transporter 1,transport.metal,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.17865,up
+COPT1,orange1.1g042215m,AT5G59030,copper transporter 1,transport.metal,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.07951,up
+*,orange1.1g042235m,AT5G38620,MADS-box transcription factor family protein ,RNA.regulation of transcription.MADS box transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g042235m,AT5G38620,MADS-box transcription factor family protein ,RNA.regulation of transcription.MADS box transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,-1.02224,down
+WAK,orange1.1g042371m,AT4G31100,"wall-associated kinase,putative",signalling.receptor kinases.wall associated kinase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+WAK,orange1.1g042371m,AT4G31100,"wall-associated kinase,putative",signalling.receptor kinases.wall associated kinase,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.55278,up
+CC-NBS-LRR,orange1.1g042541m,AT5G66900,Diseasere sistance protein(CC-NBS-LRRclass)family,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PP2-B13,orange1.1g042543m,AT1G56240,phloem protein2-B13,cell.organisation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PP2-B13,orange1.1g042543m,AT1G56240,phloem protein2-B13,cell.organisation,mild_ctv_b2,mild Citrus tristeza virus strain B2,-4.19141,down
+NB-ARC,orange1.1g042791m,AT3G14470,NB-ARC domain-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g042822m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g042822m,AT4G27190,NB-ARC domain-containing disease resistance protein,stress.biotic.PR-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.03112,up
+*,orange1.1g042876m,AT4G08850,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP13,orange1.1g042884m,AT1G74170,receptor like protein 13,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP13,orange1.1g042884m,AT1G74170,receptor like protein 13,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.3248,up
+UGT74B1,orange1.1g042896m,AT1G24100,UDP-glucosyl transferase 74B1,,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UGT74B1,orange1.1g042896m,AT1G24100,UDP-glucosyl transferase 74B1,,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.64633,up
+SPCH,orange1.1g042904m,AT5G53210,basic helix-loop-helix(bHLH) DNA-binding  protein,"RNA.regulation of transcription.bHLH,Basic Helix-Loop-Helix family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+SPCH,orange1.1g042904m,AT5G53210,basic helix-loop-helix(bHLH) DNA-binding  protein,"RNA.regulation of transcription.bHLH,Basic Helix-Loop-Helix family",severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.01159,down
+PPR7,orange1.1g042954m,AT5G02810,pseudo-response regulator 7,RNA.regulation of transcription.Psudo ARR transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PPR7,orange1.1g042954m,AT5G02810,pseudo-response regulator 7,RNA.regulation of transcription.Psudo ARR transcription factor family,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.49036,up
+PPR7,orange1.1g042954m,AT5G02810,pseudo-response regulator 7,RNA.regulation of transcription.Psudo ARR transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.12664,up
+*,orange1.1g043041m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP15,orange1.1g043235m,AT1G74190,receptor like protein 15,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UDP-Glycosyl,orange1.1g043304m,AT5G12890,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UDP-Glycosyl,orange1.1g043304m,AT5G12890,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.94871,up
+PRP4,orange1.1g043343m,AT4G38770,proline-rich protein 4,cell wall.cell wall proteins.proline rich proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS02,orange1.1g043404m,AT4G16730,terpene synthase 02,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TPS02,orange1.1g043404m,AT4G16730,terpene synthase 02,secondary metabolism.isoprenoids.terpenoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.29972,up
+AMT1;2,orange1.1g043627m,AT1G64780,ammonium transporter 1;2,transport.ammonium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+AMT1;2,orange1.1g043627m,AT1G64780,ammonium transporter 1;2,transport.ammonium,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.93896,down
+TPS21,orange1.1g043754m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g043902m,AT3G47570,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g043902m,AT3G47570,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.70125,up
+NB-ARC,orange1.1g044195m,AT3G14470,NB-ARC domain-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+NB-ARC,orange1.1g044195m,AT3G14470,NB-ARC domain-containing disease resistance protein,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.0399,up
+TIR-NBS-LRR,orange1.1g044302m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g044303m,AT1G03220,Eukaryotic aspartyl protease ,protein.degradation.aspartate protease,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g044303m,AT1G03220,Eukaryotic aspartyl protease ,protein.degradation.aspartate protease,mild_ctv_b2,mild Citrus tristeza virus strain B2,-1.19387,down
+*,orange1.1g044303m,AT1G03220,Eukaryotic aspartyl protease ,protein.degradation.aspartate protease,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.40593,down
+*,orange1.1g044353m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+FER,orange1.1g044454m,AT3G51550,Malectin/receptor-like protein kinase ,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OMT1,orange1.1g044458m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+OMT1,orange1.1g044458m,AT5G54160,O-methyl transferase 1,misc.O-methyl transferases,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.34072,up
+*,orange1.1g044462m,AT3G25810,Terpenoidcyclases/Proteinprenyl transferases,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g044462m,AT3G25810,Terpenoidcyclases/Proteinprenyl transferases,secondary metabolism.isoprenoids.terpenoids,mild_ctv_b2,mild Citrus tristeza virus strain B2,7.24663,up
+TPS21,orange1.1g044478m,AT5G23960,terpene synthase 21,secondary metabolism.isoprenoids.terpenoids,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP11,orange1.1g044590m,AT1G55910,zinc transporter 11 precursor,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP11,orange1.1g044590m,AT1G55910,zinc transporter 11 precursor,transport.metal,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.07866,up
+ZIP11,orange1.1g044590m,AT1G55910,zinc transporter 11 precursor,transport.metal,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.30965,up
+EXPB2,orange1.1g044689m,AT1G65680,expansin B2,cell wall.modification,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g044721m,AT4G39230,NmrA-like negative transcriptional regulator,secondary metabolism.flavonoids.isoflavones.isoflavone reductase,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Myb-like HTH,orange1.1g044722m,AT5G06800,myb-like HTH transcriptional regulator family protein,"RNA.regulation of transcription.G2-like transcription factor family, GARP",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+Myb-like HTH,orange1.1g044722m,AT5G06800,myb-like HTH transcriptional regulator family protein,"RNA.regulation of transcription.G2-like transcription factor family, GARP",mild_ctv_b2,mild Citrus tristeza virus strain B2,-5.37806,down
+NB-ARC,orange1.1g044750m,AT3G14470,NB-ARC domain-containing disease resistance protein,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+"ARAC4,ROP2,ATROP2,ATRAC4",orange1.1g044772m,AT1G20090,RHO-related protein from plants 2,signalling.G-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+"ARAC4,ROP2,ATROP2,ATRAC4",orange1.1g044772m,AT1G20090,RHO-related protein from plants 2,signalling.G-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.83596,up
+CHIA,orange1.1g044801m,AT5G24090,chitinaseA,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP5,orange1.1g044821m,AT1G05300,zinc transporter 5 precursor,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ZIP5,orange1.1g044821m,AT1G05300,zinc transporter 5 precursor,transport.metal,mild_ctv_b2,mild Citrus tristeza virus strain B2,-2.41005,down
+ZIP5,orange1.1g044821m,AT1G05300,zinc transporter 5 precursor,transport.metal,severe_ctv_b6,severe Citrus tristeza virus strain B6,0.36226,below_threshold
+RLP13,orange1.1g044924m,AT1G74170,receptor like protein 13,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP13,orange1.1g044924m,AT1G74170,receptor like protein 13,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,3.10392,up
+*,orange1.1g045210m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g045210m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.71815,up
+SRG1,orange1.1g045260m,AT1G17020,senescence-related gene1,hormone metabolism.ethylene.synthesis-degradation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RID3,orange1.1g045370m,AT3G49180,Transducin/WD40repeat-like protein,signalling.G-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RID3,orange1.1g045370m,AT3G49180,Transducin/WD40repeat-like protein,signalling.G-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.88334,up
+PR3,orange1.1g045378m,AT3G12500,basic chitinase ,stress.biotic,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PR3,orange1.1g045378m,AT3G12500,basic chitinase ,stress.biotic,mild_ctv_b2,mild Citrus tristeza virus strain B2,-1.29803,down
+*,orange1.1g045530m,AT2G41480,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PP2-B15,orange1.1g045590m,AT1G09155,phloem protein2-B15,cell.organisation,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PP2-B15,orange1.1g045590m,AT1G09155,phloem protein2-B15,cell.organisation,mild_ctv_b2,mild Citrus tristeza virus strain B2,-6.56743,down
+*,orange1.1g045649m,AT1G35710,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g045649m,AT1G35710,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.48919,up
+*,orange1.1g045695m,AT1G12570,Glucose-methanol-choline(GMC)oxidoreductase,"misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP1,orange1.1g046382m,AT1G07390,receptor like protein 1,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP1,orange1.1g046382m,AT1G07390,receptor like protein 1,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.36488,up
+*,orange1.1g046398m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g046398m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g046398m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.35081,up
+,orange1.1g046486m,AT4G16380,Heavy metal transport/detoxification protein,transport.metal,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+,orange1.1g046486m,AT4G16380,Heavy metal transport/detoxification protein,transport.metal,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.81044,up
+*,orange1.1g046544m,AT3G47570,Leucine-rich repeat protein kinase ,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PHT1;4,orange1.1g046667m,AT2G38940,phosphate transporter 1;4,transport.phosphate,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+PHT1;4,orange1.1g046667m,AT2G38940,phosphate transporter 1;4,transport.phosphate,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.03756,up
+PHT1;4,orange1.1g046667m,AT2G38940,phosphate transporter 1;4,transport.phosphate,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.19186,up
+HSFC1,orange1.1g046676m,AT5G03720,heat shock transcription factor C1,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HSFC1,orange1.1g046676m,AT5G03720,heat shock transcription factor C1,"RNA.regulation of transcription.HSF,Heat-shock transcription factor family",severe_ctv_b6,severe Citrus tristeza virus strain B6,1.05603,up
+RLP6,orange1.1g046844m,AT1G45616,receptor like protein 6,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLP6,orange1.1g046844m,AT1G45616,receptor like protein 6,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.34072,up
+RLK1,orange1.1g047157m,AT5G60900,receptor-like protein kinase 1,signalling.receptor kinases.DUF 26,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RLK1,orange1.1g047157m,AT5G60900,receptor-like protein kinase 1,signalling.receptor kinases.DUF 26,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.27518,up
+MYB66,orange1.1g047269m,AT5G14750,"WER,ATMYB66,WER1,MYB66",RNA.regulation of transcription.MYB domain transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+MYB66,orange1.1g047269m,AT5G14750,"WER,ATMYB66,WER1,MYB66",RNA.regulation of transcription.MYB domain transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.47242,up
+PMEI,orange1.1g047288m,AT1G23200,Plant invertase/pectinmethyl esterase inhibitor,cell wall.pectin*esterases.PME,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+TIR-NBS-LRR,orange1.1g047309m,AT1G72840,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g047337m,AT3G24330,O-Glycosylhydrolases family17 protein,"misc.beta 1,3 glucan hydrolases.glucan endo-1,3-beta-glucosidase",healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XYL4,orange1.1g047621m,AT5G64570,beta-D-xylosidase 4,cell wall.degradation.mannan-xylose-arabinose-fucose,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+XYL4,orange1.1g047621m,AT5G64570,beta-D-xylosidase 4,cell wall.degradation.mannan-xylose-arabinose-fucose,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.23964,down
+UBQ3,orange1.1g047743m,AT5G03240,polyubiquitin3,not assigned.unknown,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+UBQ3,orange1.1g047743m,AT5G03240,polyubiquitin3,not assigned.unknown,mild_ctv_b2,mild Citrus tristeza virus strain B2,2.53687,up
+*,orange1.1g047796m,AT2G38380,Peroxidase super family protein,misc.peroxidases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g047796m,AT2G38380,Peroxidase super family protein,misc.peroxidases,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.75562,up
+*,orange1.1g047797m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g047797m,AT2G34930,LRR family protein,signalling.receptor kinases.leucine rich repeat XI,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.06109,up
+ATPase E1-E2,orange1.1g047874m,AT3G63380,ATPase E1-E2 type family protein,signalling.calcium,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+ATPase E1-E2,orange1.1g047874m,AT3G63380,ATPase E1-E2 type family protein,signalling.calcium,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.55041,up
+ATPase E1-E2,orange1.1g047874m,AT3G63380,ATPase E1-E2 type family protein,signalling.calcium,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.49072,up
+RLP6,orange1.1g047927m,AT1G45616,receptor like protein 6,signalling.receptor kinases.leucine rich repeat XI,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HYR1,orange1.1g047945m,AT3G21760,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+HYR1,orange1.1g047945m,AT3G21760,UDP-Glycosyl transferase ,misc.UDP glucosyl and glucoronyl transferases,mild_ctv_b2,mild Citrus tristeza virus strain B2,-1.10946,down
+Kunitz,orange1.1g048141m,AT1G17860,Kunitz family trypsin and protease inhibitor protein,stress.biotic.PR-proteins.proteinase inhibitors.trypsin inhibitor,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g048145m,AT3G54070,ARM repeat super family protein,protein.degradation.ubiquitin.E3.RING,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP83B1,orange1.1g048189m,AT4G31500,"cytochromeP450,family83,subfamilyB,polypeptide1",,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP83B1,orange1.1g048189m,AT4G31500,"cytochromeP450,family83,subfamilyB,polypeptide1",,severe_ctv_b6,severe Citrus tristeza virus strain B6,2.01541,up
+FER,orange1.1g048439m,AT3G51550,Malectin/receptor-like protein kinase ,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+FER,orange1.1g048439m,AT3G51550,Malectin/receptor-like protein kinase ,protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII,severe_ctv_b6,severe Citrus tristeza virus strain B6,1.17449,up
+CYP75B1,orange1.1g048667m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+CYP75B1,orange1.1g048667m,AT5G07990,CytochromeP450 super family protein,misc.cytochrome P450,mild_ctv_b2,mild Citrus tristeza virus strain B2,3.07301,up
+CYP82C4,orange1.1g048689m,AT4G31940,"cytochromeP450,family82,subfamilyC,polypeptide4",misc.cytochrome P455,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RABA3,orange1.1g048709m,AT1G01200,RABGTPase homolog A3,signalling.G-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+RABA3,orange1.1g048709m,AT1G01200,RABGTPase homolog A3,signalling.G-proteins,mild_ctv_b2,mild Citrus tristeza virus strain B2,1.83006,up
+*,orange1.1g048727m,AT5G51910,TCP family transcription factor,RNA.regulation of transcription.TCP transcription factor family,healthy_mock,healthy/mock-inoculated control,0.0,baseline
+*,orange1.1g048727m,AT5G51910,TCP family transcription factor,RNA.regulation of transcription.TCP transcription factor family,severe_ctv_b6,severe Citrus tristeza virus strain B6,-1.00443,down
+TIR-NBS-LRR,orange1.1g048831m,AT5G17680,"disease resistance protein(TIR-NBS-LRRclass),putative",stress.biotic.PR-proteins,healthy_mock,healthy/mock-inoculated control,0.0,baseline

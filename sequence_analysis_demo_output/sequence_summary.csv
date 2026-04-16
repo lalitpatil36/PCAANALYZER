@@ -1,0 +1,2 @@
+sequence_id,length_bp,gc_percent,gc_skew,cpg_observed_expected,orf_count_min_60_nt,motif_hit_count,cpg_island_count
+demo_sequence,522,54.78927203065134,0.06993006993006994,1.8982750995134896,3,181,1

@@ -1,0 +1,25 @@
+treatment,week,mean,sd
+Bio-control,1,18.63,3.8
+Bio-control,2,21.13,3.18
+Bio-control,3,24.87,3.6
+Bio-control,4,28.2,2.92
+Bio-control,5,31.29,3.15
+Bio-control,6,35.13,4.25
+Control,1,25.97,2.1
+Control,2,30.69,3.44
+Control,3,35.7,3.59
+Control,4,40.61,3.83
+Control,5,45.31,3.38
+Control,6,50.93,2.97
+Fungicide,1,14.44,3.91
+Fungicide,2,17.35,3.0
+Fungicide,3,19.32,3.56
+Fungicide,4,21.73,3.52
+Fungicide,5,24.47,3.5
+Fungicide,6,27.21,3.2
+Resistant variety,1,10.74,4.0
+Resistant variety,2,12.17,3.72
+Resistant variety,3,13.53,4.24
+Resistant variety,4,16.15,4.15
+Resistant variety,5,17.79,3.8
+Resistant variety,6,19.82,3.96

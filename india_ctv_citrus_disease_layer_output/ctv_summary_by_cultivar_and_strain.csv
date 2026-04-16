@@ -1,0 +1,8 @@
+cultivar_group,strain_class,sites,mean_demo_incidence_percent,max_demo_incidence_percent
+Acid lime,Mild,1,24.0,24
+Lemon,Mild,2,17.0,19
+Mandarin,Mild,3,19.0,22
+Sweet orange,Mild,1,20.0,20
+Acid lime,Severe,3,48.33,52
+Mandarin,Severe,1,38.0,38
+Sweet orange,Severe,3,39.67,44

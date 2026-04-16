@@ -1,0 +1,5 @@
+treatment,plots,mean_disease_index,sd_disease_index,mean_yield_kg_per_plot,sd_yield_kg_per_plot
+Bio-control,24,35.13,4.25,62.4,4.27
+Control,24,50.93,2.97,48.38,4.12
+Fungicide,24,27.21,3.2,68.82,4.59
+Resistant variety,24,19.82,3.96,73.78,2.77

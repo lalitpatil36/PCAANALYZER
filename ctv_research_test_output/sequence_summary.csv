@@ -1,0 +1,2 @@
+sequence_id,description,length_bp,A_count,C_count,G_count,T_count,N_count,A_percent,C_percent,G_percent,T_percent,gc_percent,gc_skew,at_skew,cpg_observed_expected,shannon_entropy,orf_count,motif_hit_count,cpg_rich_region_count
+demo_sequence,demo_sequence advanced_sequence_analysis_demo,522,112,133,153,124,0,21.455938697318008,25.478927203065133,29.310344827586206,23.754789272030653,54.78927203065134,0.06993006993006994,-0.05084745762711865,1.8982750995134896,1.9905937406080871,3,184,1

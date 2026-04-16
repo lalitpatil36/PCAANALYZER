@@ -1,0 +1,8 @@
+state,records,mean_incidence_percent,max_incidence_percent,mean_severity_score,severe_records,mild_records,mean_disease_pressure_index
+Telangana,1,41.0,41,3.0,1,0,123.0
+Tamil Nadu,2,35.5,52,2.0,1,1,87.5
+Karnataka,2,32.5,48,2.0,1,1,80.5
+Maharashtra,5,31.8,45,2.2,3,2,78.6
+Andhra Pradesh,2,34.0,44,2.0,1,1,78.0
+Madhya Pradesh,1,18.0,18,1.0,0,1,18.0
+Kerala,1,15.0,15,1.0,0,1,15.0
